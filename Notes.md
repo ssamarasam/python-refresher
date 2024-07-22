@@ -12,5 +12,11 @@ fromatted string
 text_info = "abcde"
 msg = f"this is a {text_info} received from machine"
 
+len(variable)
+
+!=
+
+not - inverts the boolean value
+
 
 

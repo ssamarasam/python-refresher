@@ -19,4 +19,22 @@ len(variable)
 not - inverts the boolean value
 
 
+end=" "
+usually print writes a newline
+if we want to override, then use 'end'
+
+**list comprehension**
+num = [1, 2, 3, 4, 5]
+squared = [x ** 2 for x in num]
+
+
+
+**map**
+- map applies the specified fucntion to each iterable
+
+def square(x):
+    return x ** 2
+
+sqnum = map(square, numlist)
+
 

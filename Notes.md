@@ -38,3 +38,29 @@ def square(x):
 sqnum = map(square, numlist)
 
 
+
+**Zip**
+- takes multiple iterables and generates list of tuples
+- *zip can be used for unzipping
+- zip can be used to create lists, dicts
+
+
+slicing:
+- minus works reversely
+- :: skips to the number specified
+
+
+
+**for**
+
+for x in range(7)"
+    if x % 2 == 0:
+    print(x)
+
+
+[x for x in range(7) if x % 2 == 0]
+
+
+list.append(number)
+
+

@@ -119,6 +119,29 @@ for index, person in enumurate(list_winners):
     print(f"{index} - {person}")
 
 
+list methods:
+1. append
+2. pop
+3. remove
+4. reverse
+5. insert
+6. sort
+7. clear
+8. copy
+9. extend(other list)
+10. map
+11. zip
+
+
+new_tuple = tuple(list)
+
+
+newtuple = (1, 2, [2, 3, 4])
+
+the mutuable list in the above tuple can be modified newtuple[2][0] = 'a' --> (1, 2, ["a", 3, 4])
+
+
+
 
 
 
